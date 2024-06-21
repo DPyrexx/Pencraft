@@ -1,6 +1,3 @@
-# Writing the provided content into a README.md file
-
-readme_content = """
 # Pencraft App
 
 ## Overview
